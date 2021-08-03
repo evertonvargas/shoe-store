@@ -1,8 +1,7 @@
 ## 💻 Criando hook de carrinho de compras
 
-Projeto para treinar context Api
+Projeto para treinar Context Api
 
-⚙️ Funcionalidades:
 - [x] Adicionar produtos no carrinho
 - [x] Escolher quantidade de produto
 - [x] Remover produtos do carrinho
@@ -22,6 +21,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[react-toastify](https://github.com/fkhadra/react-toastify#readme)**
 -   **[styled-components](https://styled-components.com/)**
 -   **[polished](https://polished.js.org/)**
+-   **[localStorage](https://developer.mozilla.org/pt-BR/docs/Web/API/Window/localStorage)**
 
 ## 🚀 Como executar o projeto
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
